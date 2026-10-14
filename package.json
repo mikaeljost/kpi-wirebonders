@@ -1,0 +1,10 @@
+{
+    "name": "nodered-kpi",
+    "version": "1.0.0",
+    "dependencies": {
+        "node-red": "^3.1.0",
+        "@flowfuse/node-red-dashboard": "latest",
+        "node-red-contrib-spreadsheet-in": "latest",
+        "node-red-contrib-postgresql": "latest"
+    }
+}
